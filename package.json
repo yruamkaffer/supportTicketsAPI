@@ -8,5 +8,8 @@
   },
   "author": "Yruam Käffer de Faria",
   "license": "ISC",
-  "description": "API de gerenciamento de tickets de suporte."
+  "description": "API de gerenciamento de tickets de suporte.",
+  "devDependencies": {
+    "@biomejs/biome": "^2.1.1"
+  }
 }
